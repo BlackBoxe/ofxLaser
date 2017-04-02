@@ -3,3 +3,5 @@ ofxXmlSettings
 ofxEtherdream
 ofxIlda
 ofxOpenCv
+ofxLaser
+ofxSvg
